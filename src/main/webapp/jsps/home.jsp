@@ -9,6 +9,9 @@
 </head>
 </head>
 <body>
+		<span>
+		<img src="images/index.png" alt="" width="100">
+	</span>
 <h1 align="center">Welcome to Docker Page</h1>
 <h1 align="center"> Containerization Tool</h1>
 <hr>
@@ -33,12 +36,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 	<span>
 		<img src="images/index.png" alt="" width="100">
 	</span>
-	<span style="font-weight: bold;">
-		KL University
-		Vaddeswaram
-		<br>
-		<a href="sample@kluniversity.in">Mail to KL University</a>
-	</span>
+
 </div>
 <hr>
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
