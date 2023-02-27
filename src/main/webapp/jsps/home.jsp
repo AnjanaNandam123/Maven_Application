@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>MithunTechnologies- Home Page</title>
+<title>KL University- Home Page</title>
 <link href="images/index.png" rel="icon">
 </head>
 </head>
